@@ -1,0 +1,23 @@
+we have 3 sections in a lex program
+	-declaration section
+	-rule section 
+	-main section
+	
+Functions:
+	-yylex() - function to reade the input string and generate a sequence of tokkens
+	
+	-yywrap() - global variable , if the input is exhausted , it returns 1 otherwise it 	returns 0
+	
+	-yytext - points to the input string which is stored as temporary file
+	
+The default data type of input is string
+	
+	
+	
+	****	Lab programs	****
+1- count the number of characters in the input string
+2- count the number of words in the input string 
+3- count the number of lowercase, uppercase , numerics, special characters and other characters in the input string
+4- identify whether a identifier is valid or not
+5- identify whether a number is even or odd
+6- identify whether a number is perfect square or not (use -lm with gcc to use math library methods)

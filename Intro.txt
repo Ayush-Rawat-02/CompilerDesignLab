@@ -15,9 +15,8 @@ The default data type of input is string
 	
 	
 	****	Lab programs	****
-1- count the number of characters in the input string
-2- count the number of words in the input string 
-3- count the number of lowercase, uppercase , numerics, special characters and other characters in the input string
-4- identify whether a identifier is valid or not
-5- identify whether a number is even or odd
-6- identify whether a number is perfect square or not (use -lm with gcc to use math library methods)
+1- count the number of words in the input string 
+2- count the number of lowercase, uppercase , numerics, special characters and other characters in the input string
+3- identify whether a identifier is valid or not
+4- identify whether a number is even or odd
+5- identify whether a number is perfect square or not (use -lm with gcc to use math library methods)
